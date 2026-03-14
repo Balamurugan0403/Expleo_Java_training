@@ -10,6 +10,9 @@ public class Main {
 		//method chaining using the current object.
 		d.addDept("EEE").addDeptid(109);
 		d.display();
+		int age=68;
+		assert age>=60:"old";
+		System.out.println("wrong data");
 	}
 
 }

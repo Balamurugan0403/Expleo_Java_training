@@ -1,0 +1,142 @@
+package Demo_generic;
+
+public class Genericmethod {
+   static <T> void genericDisplay(T element) {
+	   System.out.println(element);
+	   System.out.println(element.getClass().getName()+"="+element);
+   }
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		genericDisplay(11);
+		genericDisplay("ram");
+		genericDisplay(12.5);
+		genericDisplay(54.8f
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				);
+
+	}
+
+}
