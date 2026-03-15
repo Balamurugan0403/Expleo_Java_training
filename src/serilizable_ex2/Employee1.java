@@ -44,8 +44,8 @@ public class Employee1 implements Serializable {
             System.out.println("Data before Deserialization:");
             printdata(object);
 
-            object.deptId = 2000;   // change static value
-            object.empAge = 100;    // change normal value
+            object.deptId = 2000;  
+            object.empAge = 100;    
 
         } catch (IOException ex) {
             System.out.println("IOException is caught");
