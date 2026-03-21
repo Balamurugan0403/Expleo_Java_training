@@ -1,3 +1,8 @@
+/Classobject_encapsulation_handson/
+/Control_flow_assign/
+/Demo_generic/
+/Functions_hands_on/
+/Hands_on_arrays/
 /Interface_learn/
 /Interface_learn2/
 /Java_core/
@@ -5,8 +10,12 @@
 /abstraction_handson_qn2/
 /abstraction_pack/
 /access_modifi_1/
+/arraylist/
 /assessment_2/
+/collections/
+/comparable/
 /exception_handling/
+/exceptionhandling_handson/
 /file/
 /handson7_strings/
 /inheritance_handson/
@@ -15,11 +24,11 @@
 /innerclassexample/
 /innerclassexample2/
 /interface_learn3/
+/mappack/
 /new_handson6/
 /practice/
 /practice0/
 /practice1/
+/queuepack/
 /serialize/
 /serilizable_ex2/
-/.metadata/
-/.project

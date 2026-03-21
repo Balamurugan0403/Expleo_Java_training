@@ -1,1 +1,10 @@
-/.metadata/
+# Eclipse IDE files
+.metadata/
+bin/
+*.log
+*.zip
+*.ini
+
+# Optional: OS files
+.DS_Store
+Thumbs.db
