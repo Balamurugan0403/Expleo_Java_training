@@ -17,6 +17,7 @@ public class Charactercount {
 		for (char ch : charsToCount) {
 			countMap.put(ch, 0);
 		}
+		System.out.println("key:"+countMap.keySet());
 		for (char ch : text.toCharArray()) {
 			ch = Character.toLowerCase(ch); // ignore case
 			if (countMap.containsKey(ch)) {
